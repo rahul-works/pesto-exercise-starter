@@ -72,7 +72,7 @@ const InputText = (props) => {
       props.handleSubmit(value);
       setValue('');
     }}>
-      <TextInput onChange={e => setValue(e.target.value)}  />
+      <input onChange={e => setValue(e.target.value)}  />
       <button className="add_button" type="submit" >Add Item</button>
     </form>
   )
