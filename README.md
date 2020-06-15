@@ -87,3 +87,6 @@ Before you fetch you questions, the auto-updater will try to update the reposito
 - For daily exercises the pull request should be created before 8 PM (IST) the next day.
 - For long exercises the pull request should be created before 8 PM (IST) on Monday.
 - Your homework will not be counted as complete if the pull request is not created within the above time frame.
+
+## Deployed app link 
+https://festive-easley-46f3e9.netlify.app/
